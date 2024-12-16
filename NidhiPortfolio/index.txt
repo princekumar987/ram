@@ -1,0 +1,31 @@
+#sidebar
+
+alt=Nidhi Darwade
+Nidhi Darwade
+Web developer
+
+Show Contacts
+
+Email
+darwadenidhi174@gmail.com
+
+phone
+91+ 7610688664
+
+Birthday
+April 17,2003
+
+Location
+Balaghat ,M.P, India
+
+#navbar
+About
+Resume
+project
+certificate
+Contact
+
+#About
+I am currently pursuing a degree in Artificial Intelligence and Machine Learning, driven by a strong passion for technology and innovation. I have proficiency in Java and a solid understanding of Data Structures and Algorithms
+ My experience includes building and deploying web applications, as well as foundational knowledge in Artificial Intelligence and Machine Learning. I am enthusiastic about exploring the potential of AI and ML to solve real-world problems and aim to leverage my skills in a collaborative and creative environment where I can grow and make a meaningful impact.
+ #Resume
